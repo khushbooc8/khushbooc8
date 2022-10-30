@@ -4,7 +4,7 @@
 <h3 align="center">A second-year software engineering student @UVIC</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on **Moodsy**
+- 🔭 I’m currently working on **Moodsy** a Mood tracking and wellness Android app
 
 - 🌱 I’m currently learning **Android Studio, XML, React**
 
