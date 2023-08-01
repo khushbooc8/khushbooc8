@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Moodsy** a mood tracking and wellness Android app
 
-- 🌱 I’m currently learning **Android Studio, XML, React**
+- 🌱 I’m currently learning **AWS** and **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
