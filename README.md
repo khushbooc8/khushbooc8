@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 
 <li>🌱 I’m currently learning <b>React</b></li>
-<li>🤔 Ask me about my work experiences teaching Data Structures & Algorithms as a Teaching Assistant at UVIC or and a variety of programming languages as an instructor at Science Venture</li>
+<li>🤔 Ask me about my work experiences teaching Data Structures & Algorithms as a Teaching Assistant at UVIC and a variety of programming languages as an instructor at Science Venture</li>
 <li>💬 Message me via any social media accounts below. I am always happy to chat, help, and learn</li>
 
 
