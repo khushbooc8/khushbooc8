@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushboo Chugh!</h1>
-<h3 align="center">A third-year computer science student @UVIC</h3>
+<h3 align="center">A fourth-year computer science student @UVIC</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <h2>About Me</h2>
