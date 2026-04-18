@@ -9,9 +9,10 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 <ul>
   <li>🛠️ Infrastructure-focused software engineer with hands-on experience building and operating <b>CI/CD pipelines, backend systems, and developer tooling</b></li>
   <li>⚙️ Currently working as a <b>Firmware & DevOps Developer</b> at Schneider Electric, supporting large-scale firmware and build infrastructure</li>
-  <li>📦 Containerized backend services using Docker and Kubernetes to improve deployment reliability and scalability.</li>
+  <li>📦 Containerized backend services using Docker to improve deployment reliability and scalability.</li>
   <li>🔍 Interested in <b>distributed systems, concurrency, and scalable backend infrastructure</b></li>
   <li>🐧 Comfortable working close to the system: Linux, networking, multi-threading, and performance debugging</li>
+  <li>👩🏽‍💻Experience with Infrastructure as Code (IaC) tools such as Terraform and Ansible</li>
 </ul>
 
 <p>
@@ -22,7 +23,7 @@ I enjoy solving ambiguous infrastructure problems, improving developer productiv
 
 <p align="left">
   <b>Languages:</b> Python, Go, C, C++, Java, SQL <br>
-  <b>Infrastructure & DevOps:</b> Jenkins, GitHub Actions, Docker, Kubernetes, Ansible, Packer, VMware vSphere <br>
+  <b>Infrastructure & DevOps:</b> Jenkins, GitHub Actions, Docker, Terraform, Ansible, Packer, VMware vSphere <br>
   <b>Systems:</b> Linux/UNIX, CI/CD, Distributed Systems, Networking, Concurrency <br>
   <b>Datastores:</b> Oracle, PostgreSQL, Firebase (NoSQL)
 </p>
@@ -32,6 +33,5 @@ I enjoy solving ambiguous infrastructure problems, improving developer productiv
 <ul>
   <li>🔁 Designed and maintained CI/CD pipelines for firmware build and test automation using Jenkins and GitHub Actions</li>
   <li>📦 Built and scaled internal packaging infrastructure for C++ libraries with automated CI enforcement</li>
-  <li>🐳 Containerized backend services using Docker and Kubernetes to improve deployment reliability</li>
-  <li>🧵 Debugged multi-threaded systems, resolving race conditions, deadlocks, and performance bottlenecks</li>
+  <li>🐳 Containerized backend services using Docker to improve deployment reliability</li>
 </ul>
